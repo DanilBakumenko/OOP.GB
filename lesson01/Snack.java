@@ -7,33 +7,33 @@ public class Snack extends Product {
     private double proteins;
     private double carbohydrates;
 
-    // Snack(){
-    //     this("Noname");
-    // }
+    Snack(){
+        this("Noname");
+    }
     
-    // Snack(String name){
-    //     this(name,"Noname");
-    // }
+    Snack(String name){
+        this(name,"Noname");
+    }
 
-    // Snack(String name, String brand){
-    //     this(name,brand,100);
-    // }
+    Snack(String name, String brand){
+        this(name,brand,100);
+    }
 
-    // Snack(String name, String brand, double price){
-    //     this(name, brand, price, 50);
-    // }
+    Snack(String name, String brand, double price){
+        this(name, brand, price, 50);
+    }
 
-    // Snack(String name, String brand, double price, double weight){
-    //     this(name, brand, price, weight, 0.50);
-    // }
+    Snack(String name, String brand, double price, double weight){
+        this(name, brand, price, weight, 0.50);
+    }
 
-    // Snack(String name, String brand, double price, double weight, double proteins){
-    //     this(name, brand, price, weight, proteins, 1.50);
-    // }
+    Snack(String name, String brand, double price, double weight, double proteins){
+        this(name, brand, price, weight, proteins, 1.50);
+    }
 
-    // Snack(String name, String brand, double price, double weight, double proteins, double fats){
-    //     this(name, brand, price, weight, proteins, fats, 48);
-    // }
+    Snack(String name, String brand, double price, double weight, double proteins, double fats){
+        this(name, brand, price, weight, proteins, fats, 48);
+    }
 
     Snack(String name, String brand, double price, double weight, double fats, double proteins, double carbohydrates){
         super(name, brand, price);

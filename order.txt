@@ -1,0 +1,6 @@
+dog cat cat bear cat cat cat dog cat cat
+cat bear cat cat cat cat cat dog dog cat
+cat dog bear cat cat cat dog cat dog cat
+dog dog cat cat cat cat cat bear cat dog
+cat cat dog bear cat cat dog cat dog dog
+cat cat bear cat cat cat cat cat bear cat
